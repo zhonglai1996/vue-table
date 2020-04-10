@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <div>{{this.add}}</div>
     <router-view></router-view>
   </div>
 </template>
